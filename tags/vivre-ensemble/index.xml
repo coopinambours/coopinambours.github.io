@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vivre ensemble on Les Coopinambours</title>
+    <link>http://example.org/tags/vivre-ensemble/</link>
+    <description>Recent content in Vivre ensemble on Les Coopinambours</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>truc</copyright>
+    <lastBuildDate>Sun, 29 Jan 2023 15:44:24 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/vivre-ensemble/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bon anniversaire</title>
+      <link>http://example.org/actu/2023/230129/</link>
+      <pubDate>Sun, 29 Jan 2023 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2023/230129/</guid>
+      <description>Le plus jeune des Coopinambours fête ses 1 ans! Un régal pour les papilles des adultes et des cadeaux pour Arthur!
+  Arthur souffle ses 1 ans     Déballage des cadeaux     Premier test de trottinette   </description>
+    </item>
+    
+    <item>
+      <title>Bonne année 2023!</title>
+      <link>http://example.org/actu/2022/221231/</link>
+      <pubDate>Sat, 31 Dec 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/221231/</guid>
+      <description>Nous étions plus d&amp;rsquo;une quinzaine réunis au carnotzet pour fêter le passage à la nouvelle année autour d&amp;rsquo;une fondue chinoise. Un baby-foot a même été acheté au dernier moment pour divertir les convives. Un franc succès!
+                          </description>
+    </item>
+    
+    <item>
+      <title>Naissance d&#39;un Coopinambours</title>
+      <link>http://example.org/actu/2022/220131/</link>
+      <pubDate>Mon, 31 Jan 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220131/</guid>
+      <description>Un (très) petit garçon nommé Arthur a vu le jour! La maman se porte bien et pourra rentrer prochainement à la maison. Les Coopinambours lui souhaite la bienvenue dans leurs rangs.
+  Un très jeune Coopinambours   </description>
+    </item>
+    
+    <item>
+      <title>Plumage</title>
+      <link>http://example.org/actu/2021/211105/</link>
+      <pubDate>Fri, 05 Nov 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/211105/</guid>
+      <description>Quatre des cinqs coqs ont été abattus, plumés, découpés et congelés. Dupond (ou Dupont on ne sait pas), seul rescapé, découvre dès à présent son nouveau rôle de mâle omega.</description>
+    </item>
+    
+    <item>
+      <title>Première édition du Power Day</title>
+      <link>http://example.org/actu/2021/211003/</link>
+      <pubDate>Sun, 03 Oct 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/211003/</guid>
+      <description>Au menu de la première édition du Power Day: arrachage des mauvaises herbes sur les plates-bandes, à-fonds du poulallier, nettoyage approfondi du carnotzet&amp;hellip; Le tout soldé par la récolte des courges de la fosse à fumier!
+    </description>
+    </item>
+    
+    <item>
+      <title>Déménagement de Jasmine et Armand</title>
+      <link>http://example.org/actu/2021/210723/</link>
+      <pubDate>Fri, 23 Jul 2021 11:44:16 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210723/</guid>
+      <description>Jasmine et Armand on fait appel à des déménageurs professionnels pour déplacer leurs affaires et mobilier d&amp;rsquo;Yverdon à Prahins. Tous les Coopinambours sont maintenant réunis sous le même toit.</description>
+    </item>
+    
+    <item>
+      <title>Déménagement de Marine et Daniel</title>
+      <link>http://example.org/actu/2021/210702/</link>
+      <pubDate>Fri, 02 Jul 2021 14:21:57 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210702/</guid>
+      <description>Marine et Daniel ont quitté Yvonand pour Prahins. L&amp;rsquo;aide des Coopinambours et du père de Daniel, Jürg Wolfensberger, a été particulièrement précieuse.</description>
+    </item>
+    
+    <item>
+      <title>Déménagement de Jonathan et Cosette</title>
+      <link>http://example.org/actu/2021/210625/</link>
+      <pubDate>Fri, 25 Jun 2021 15:40:02 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210625/</guid>
+      <description>Jonathan et Cosette ont posé leur valises à Prahins. Le déménagement depuis Villargiroud a demandé 2 allers-retours et la participation des 12 bras des Coopinambours.</description>
+    </item>
+    
+    <item>
+      <title>Formation en gouvernance partagée</title>
+      <link>http://example.org/actu/2021/210220/</link>
+      <pubDate>Sat, 20 Feb 2021 11:33:01 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210220/</guid>
+      <description>Les Coopinambours ont suivi un stage de deux jours en gouvernance partagée afin d&amp;rsquo;avoir des outils et des clés pour mener à bien leurs réunions.</description>
+    </item>
+    
+  </channel>
+</rss>

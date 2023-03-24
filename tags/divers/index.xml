@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Divers on Les Coopinambours</title>
+    <link>http://example.org/tags/divers/</link>
+    <description>Recent content in Divers on Les Coopinambours</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>truc</copyright>
+    <lastBuildDate>Wed, 17 Aug 2022 15:44:24 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/divers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La pluie...</title>
+      <link>http://example.org/actu/2022/220817/</link>
+      <pubDate>Wed, 17 Aug 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220817/</guid>
+      <description>La première pluie significative depuis le 8 juin environ vient copieusement arroser jardin et potager! Une libération! Un bonheur de courte durée puisque les conditions anticyloniques vont reprendre d&amp;rsquo;ici 3 à 4 jours selon MétéoSuisse&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Excursion à la Hauta Chia</title>
+      <link>http://example.org/actu/2022/220812/</link>
+      <pubDate>Fri, 12 Aug 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220812/</guid>
+      <description>Les Coopinambours se font une sortie au vert en partant en excursion à la Hauta Chia depuis la Berra. L&amp;rsquo;invitation a été proposée par les heureux parents du groupe: Cosette et Jonathan. Merci à eux!
+  Dans la cabine     La vue depuis la Berra     En route sur la crête, direction l&amp;#39;apéro!     La vue depuis la Berra   </description>
+    </item>
+    
+  </channel>
+</rss>

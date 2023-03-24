@@ -12,5 +12,493 @@
 	<atom:link href="http://example.org/actu/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Reprise des travaux au potager</title>
+      <link>http://example.org/actu/2023/230319/</link>
+      <pubDate>Sun, 19 Mar 2023 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2023/230319/</guid>
+      <description>Les activités (funs) au potager reprennent ce week end avec les semis d&amp;rsquo;oignon et de petits pois!</description>
+    </item>
+    
+    <item>
+      <title>Une brunette en moins</title>
+      <link>http://example.org/actu/2023/230309/</link>
+      <pubDate>Thu, 09 Mar 2023 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2023/230309/</guid>
+      <description>Deuxième coup dur au poulailler avec le décès d&amp;rsquo;une brunette. L&amp;rsquo;autopsie a révélé des marques de crocs sur une des pattes, probablement attribuées à une fouine. Des mesures de protection supplémentaires ont été entreprises dans la foulée.</description>
+    </item>
+    
+    <item>
+      <title>Bon anniversaire</title>
+      <link>http://example.org/actu/2023/230129/</link>
+      <pubDate>Sun, 29 Jan 2023 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2023/230129/</guid>
+      <description>Le plus jeune des Coopinambours fête ses 1 ans! Un régal pour les papilles des adultes et des cadeaux pour Arthur!
+  Arthur souffle ses 1 ans     Déballage des cadeaux     Premier test de trottinette   </description>
+    </item>
+    
+    <item>
+      <title>Bonne année 2023!</title>
+      <link>http://example.org/actu/2022/221231/</link>
+      <pubDate>Sat, 31 Dec 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/221231/</guid>
+      <description>Nous étions plus d&amp;rsquo;une quinzaine réunis au carnotzet pour fêter le passage à la nouvelle année autour d&amp;rsquo;une fondue chinoise. Un baby-foot a même été acheté au dernier moment pour divertir les convives. Un franc succès!
+                          </description>
+    </item>
+    
+    <item>
+      <title>C&#39;est Clair!</title>
+      <link>http://example.org/actu/2022/221226/</link>
+      <pubDate>Mon, 26 Dec 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/221226/</guid>
+      <description>A Noël, Cosette a supris un chant en provenance du poulailler. Cette fois-ci c&amp;rsquo;est Clair, un coq fait son retour parmi les gallinacés des Coopinambours!</description>
+    </item>
+    
+    <item>
+      <title>Un gros tas de paille</title>
+      <link>http://example.org/actu/2022/221113/</link>
+      <pubDate>Sun, 13 Nov 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/221113/</guid>
+      <description>Afin de préparer le potager à l&amp;rsquo;hiver et au printemps prochain, le voisin Siegenthaler nous a déposé une botte de paille de 300 Kg devant la grange. Les travaux de désherbage doivent maintenant se poursuivre&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A bas la buanderie!</title>
+      <link>http://example.org/actu/2022/221022/</link>
+      <pubDate>Sat, 22 Oct 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/221022/</guid>
+      <description>En vue d&amp;rsquo;améliorer l&amp;rsquo;isolation du bâti contre les locaux non-chauffés, les parois de la buanderie rudimentaire du 1er étage dans la grange ont été abattues afin de pouvoir atteindre plus facilement le mur en béton cellulaire!
+          Démontage en équipe     Les planches sont rangées derrière Marine   </description>
+    </item>
+    
+    <item>
+      <title>Chambre d&#39;Arthur</title>
+      <link>http://example.org/actu/2022/221020/</link>
+      <pubDate>Thu, 20 Oct 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/221020/</guid>
+      <description>Jonathan et Cosette ont obtenu l&amp;rsquo;autorisation officielle de la commune de Donneloye pour transformer leur buanderie en chambre.</description>
+    </item>
+    
+    <item>
+      <title>Soupe à la courge - 2ème édition!</title>
+      <link>http://example.org/actu/2022/221015/</link>
+      <pubDate>Sat, 15 Oct 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/221015/</guid>
+      <description>La très belle récolte de courges obtenue cet été a permis aux Coopinambours de réitérer leur journée &amp;ldquo;Soupe à la courge&amp;rdquo; partagée avec les voisins!
+  Carton d&amp;#39;invitation adressé aux voisins   Avant les convives   Table des victuailles     Tables dans la grange     Table du carnotzet (réservé aux plus de 75 ans selon Coucou)     Jasmine et Jonathan levant leur verre de vin chaud   </description>
+    </item>
+    
+    <item>
+      <title>Choucroute!</title>
+      <link>http://example.org/actu/2022/221002/</link>
+      <pubDate>Sun, 02 Oct 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/221002/</guid>
+      <description>Un doux fumet de pet se propage dans le couloir depuis quelques jours. Les Coopinambours vont pouvoir tenir un siège avec 23 kg de choucroute!
+  Un très beau chou     Mise en toupine     La choucroute est une activité de groupe   </description>
+    </item>
+    
+    <item>
+      <title>Mini oeuf..?</title>
+      <link>http://example.org/actu/2022/221002-1/</link>
+      <pubDate>Sun, 02 Oct 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/221002-1/</guid>
+      <description>Une nègre de soie aurait-elle déja pondu? Le mystère reste entier, tout comme leur sexe inconnu.
+  Un oeuf bien trop petit   </description>
+    </item>
+    
+    <item>
+      <title>Des noix comme s&#39;il en pleuvait</title>
+      <link>http://example.org/actu/2022/220929/</link>
+      <pubDate>Thu, 29 Sep 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220929/</guid>
+      <description>La bise des derniers jours a fait tomber les noix sur le terrain agricole. La récolte 2022 est fructueuse!
+  Séchage des noix dans une jardinière vide   </description>
+    </item>
+    
+    <item>
+      <title>Carré dessert au potager</title>
+      <link>http://example.org/actu/2022/220910/</link>
+      <pubDate>Sat, 10 Sep 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220910/</guid>
+      <description>L&amp;rsquo;extension du potager se poursuit: après motocultage à la main, fraisiers, framboisiers et rhubarbes ont été repiqués au-delà du carré délimité pour le potager.
+  Première ligne!     Deuxième ligne!       Petites rhubarbes deviendront grandes!   </description>
+    </item>
+    
+    <item>
+      <title>Verdict</title>
+      <link>http://example.org/actu/2022/220906/</link>
+      <pubDate>Tue, 06 Sep 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220906/</guid>
+      <description>Les analyses ont parlé: il n&amp;rsquo;y a pas de matériau problématique dans la maison (du moins pas au rez de chaussée). Sauf pour les fenêtes, ce qui n&amp;rsquo;est pas une surprise.</description>
+    </item>
+    
+    <item>
+      <title>Cours Sebasol</title>
+      <link>http://example.org/actu/2022/220902/</link>
+      <pubDate>Fri, 02 Sep 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220902/</guid>
+      <description>Marine et Jonathan sont allé suivre le cours très instructif &amp;ldquo;Reconquête&amp;rdquo; par Sebasol afin de comprendre les intérêts du solaire thermique.</description>
+    </item>
+    
+    <item>
+      <title>La pluie...</title>
+      <link>http://example.org/actu/2022/220817/</link>
+      <pubDate>Wed, 17 Aug 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220817/</guid>
+      <description>La première pluie significative depuis le 8 juin environ vient copieusement arroser jardin et potager! Une libération! Un bonheur de courte durée puisque les conditions anticyloniques vont reprendre d&amp;rsquo;ici 3 à 4 jours selon MétéoSuisse&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Excursion à la Hauta Chia</title>
+      <link>http://example.org/actu/2022/220812/</link>
+      <pubDate>Fri, 12 Aug 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220812/</guid>
+      <description>Les Coopinambours se font une sortie au vert en partant en excursion à la Hauta Chia depuis la Berra. L&amp;rsquo;invitation a été proposée par les heureux parents du groupe: Cosette et Jonathan. Merci à eux!
+  Dans la cabine     La vue depuis la Berra     En route sur la crête, direction l&amp;#39;apéro!     La vue depuis la Berra   </description>
+    </item>
+    
+    <item>
+      <title>Le toit en gruyère</title>
+      <link>http://example.org/actu/2022/220712/</link>
+      <pubDate>Tue, 12 Jul 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220712/</guid>
+      <description>Marine et Daniel ont mandaté l&amp;rsquo;entreprise Montandon Charpente SA à Orzen pour rénover leur velux et faire deux nouvelles ouvertures sur le toit. Cela bien entendu avec l&amp;rsquo;accord des autres membres de la PPE.</description>
+    </item>
+    
+    <item>
+      <title>Welcome Clair(e) et Obscure!</title>
+      <link>http://example.org/actu/2022/220711/</link>
+      <pubDate>Mon, 11 Jul 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220711/</guid>
+      <description>Usant des compétences de l&amp;rsquo;Idiote en matière de mère adoptive, Jasmine a fait naitre deux nouvelles galinacées poilues nommées d&amp;rsquo;après leur plumage Clair(e) et Obscure.   De gauche à droite: Clair, Obscure et la maman   </description>
+    </item>
+    
+    <item>
+      <title>Adieu Dupont!</title>
+      <link>http://example.org/actu/2022/220607-1/</link>
+      <pubDate>Tue, 07 Jun 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220607-1/</guid>
+      <description>Après de longs débats, Dupont est parti au pays du gruyère et de la double crème rejoindre Ciboulette et Cassis     Dupont le BG   </description>
+    </item>
+    
+    <item>
+      <title>Première cueillette</title>
+      <link>http://example.org/actu/2022/220607/</link>
+      <pubDate>Tue, 07 Jun 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220607/</guid>
+      <description>Les fraisiers plantés cette année commencent à donner leur première fraises. Côté pergola, quelques framboises commencent également à mûrir. Le cerisier, sur le terrain agricole a quant à lui donné quelques cerises&amp;hellip;
+    </description>
+    </item>
+    
+    <item>
+      <title>Arrosage du jardin</title>
+      <link>http://example.org/actu/2022/220603/</link>
+      <pubDate>Fri, 03 Jun 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220603/</guid>
+      <description>Trois cuves de 1000 litres chacune ont été déposées sur le terrain agricole. Elles permettront de faciliter l&amp;rsquo;arrosage du potager qui s&amp;rsquo;agrandit et pousse de jour en jour. Prochaine étape: demander de l&amp;rsquo;eau au voisin de parcelle. Jasmine et Armand ont déja usé de leurs compétences diplomatiques pour entamer les négociations.   Etat du jardin au 3 juin 2022   </description>
+    </item>
+    
+    <item>
+      <title>Isolation des combles terminée!</title>
+      <link>http://example.org/actu/2022/220603-1/</link>
+      <pubDate>Fri, 03 Jun 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220603-1/</guid>
+      <description>Suite à une panne de matériel, le projet d&amp;rsquo;isolation des combles à l&amp;rsquo;aide de ouate de cellulose avait été momentanément interrompu. La machine ayant été réparée, Marine et Daniel ont pu terminer de souffler les derniers sacs de ouates dans le galetas en cette journée ensoleillée.</description>
+    </item>
+    
+    <item>
+      <title>Renovation de la salle de bain du rez</title>
+      <link>http://example.org/actu/2022/220515/</link>
+      <pubDate>Sun, 15 May 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220515/</guid>
+      <description>Premier essais de pose de carrelage au sol et sur les murs et de crépis pour la renovation de la salle de bain du rez avant la venue d&amp;rsquo;un expert pouvant certifier qu&amp;rsquo;il n&amp;rsquo;y a plus de matériaux problématiques empêchant les transformations nécessaires à la création d&amp;rsquo;une chambre pour le petit Arthur.
+  Reconstruction de la salle de bain du rez   </description>
+    </item>
+    
+    <item>
+      <title>Jardin potager sur le terrain agricole</title>
+      <link>http://example.org/actu/2022/220430/</link>
+      <pubDate>Sat, 30 Apr 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220430/</guid>
+      <description>Coucou a proposé de passer le motoculteur sur notre terrain agricole afin d&amp;rsquo;aérer la terre. Après cette étape, semis, plantons puis repiquage rythmeront une partie de nos weekends à venir.</description>
+    </item>
+    
+    <item>
+      <title>Assainissement des murs et sols de la salle de bain du rez</title>
+      <link>http://example.org/actu/2022/220422/</link>
+      <pubDate>Fri, 22 Apr 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220422/</guid>
+      <description>Les travaux d&amp;rsquo;assainissement de la salle de bain du rez ont commencé et on pris plus de temps que prévu. Cette étape est nécessaire afin d&amp;rsquo;avoir la dispense de permis de construire de la commune pour la transformation de la buanderie attenante en chambre d&amp;rsquo;enfant.</description>
+    </item>
+    
+    <item>
+      <title>Décès de la Mégère</title>
+      <link>http://example.org/actu/2022/220315-1/</link>
+      <pubDate>Tue, 15 Mar 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220315-1/</guid>
+      <description>Les Coopinambours sont en deuil ce matin. La Mégère, a succombé à l&amp;rsquo;entrée du poulailler. Elle est décedée sur les lieux de l&amp;rsquo;accident. Jasmine lui rendra hommage et fera en sorte que sa mort ne soit pas vaine en procédant à une autopsie en classe avec ses élèves.</description>
+    </item>
+    
+    <item>
+      <title>Transformations au rez</title>
+      <link>http://example.org/actu/2022/220315/</link>
+      <pubDate>Tue, 15 Mar 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220315/</guid>
+      <description>Les travaux de transformation et de rénovation du rez sont compromis par une suite de mauvaises nouvelles. Les Coopinambours ont néanmoins pris la décision d&amp;rsquo;assainir eux-mêmes le bâtiment.</description>
+    </item>
+    
+    <item>
+      <title>Isolation des combles</title>
+      <link>http://example.org/actu/2022/220309/</link>
+      <pubDate>Wed, 09 Mar 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220309/</guid>
+      <description>Conformément à l&amp;rsquo;analyse du CECB+, l&amp;rsquo;isolation des combles est une mesure simple a mettre en place qui permettrait d&amp;rsquo;améliorer le bilan énergétique du bâtiment. Une tonne de ouate de cellulose Thermofloc a été commandée via Meige SA (à Pompaples) et va être soufflée dans le grenier ce printemps.</description>
+    </item>
+    
+    <item>
+      <title>Naissance d&#39;un Coopinambours</title>
+      <link>http://example.org/actu/2022/220131/</link>
+      <pubDate>Mon, 31 Jan 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220131/</guid>
+      <description>Un (très) petit garçon nommé Arthur a vu le jour! La maman se porte bien et pourra rentrer prochainement à la maison. Les Coopinambours lui souhaite la bienvenue dans leurs rangs.
+  Un très jeune Coopinambours   </description>
+    </item>
+    
+    <item>
+      <title>Cours de taille sur fruitiers</title>
+      <link>http://example.org/actu/2022/220125/</link>
+      <pubDate>Tue, 25 Jan 2022 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2022/220125/</guid>
+      <description>Les délégués aux fruitiers ont suivi un cours de taille d&amp;rsquo;arbre à la Mauguettaz afin d&amp;rsquo;apprendre les rudiments de l&amp;rsquo;entretien des fruitiers.</description>
+    </item>
+    
+    <item>
+      <title>Premier oeuf!</title>
+      <link>http://example.org/actu/2021/211129/</link>
+      <pubDate>Mon, 29 Nov 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/211129/</guid>
+      <description>Le premier oeuf a été pondu! Les Coopinambours espère que ce sera le premier exemplaire d&amp;rsquo;une longue série!</description>
+    </item>
+    
+    <item>
+      <title>4 nouvelles poules</title>
+      <link>http://example.org/actu/2021/211111/</link>
+      <pubDate>Thu, 11 Nov 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/211111/</guid>
+      <description>4 nouvelles petites poules brunes ont rejoint l&#39;équipe du poulailler. Le cheptel s&#39;élève à nouveau à 8 gallinacées.</description>
+    </item>
+    
+    <item>
+      <title>La courge en folie</title>
+      <link>http://example.org/actu/2021/211111-1/</link>
+      <pubDate>Thu, 11 Nov 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/211111-1/</guid>
+      <description>Les Coopinambours ont organisé leur propre fête des voisins autour de plusieurs soupes à la courge, de vin chaud, de thé à la cannelle et de dessert. Un franc succès!
+Avant l&amp;rsquo;arrivée des convives         A table !         </description>
+    </item>
+    
+    <item>
+      <title>Plumage</title>
+      <link>http://example.org/actu/2021/211105/</link>
+      <pubDate>Fri, 05 Nov 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/211105/</guid>
+      <description>Quatre des cinqs coqs ont été abattus, plumés, découpés et congelés. Dupond (ou Dupont on ne sait pas), seul rescapé, découvre dès à présent son nouveau rôle de mâle omega.</description>
+    </item>
+    
+    <item>
+      <title>Largage de fumier</title>
+      <link>http://example.org/actu/2021/211013/</link>
+      <pubDate>Wed, 13 Oct 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/211013/</guid>
+      <description>&amp;ldquo;Coucou&amp;rdquo; a comme prévu, largué plus de 5m3 de fumier sur le terrain agricole afin de rendre à la terre une certaine richesse. Etalé à la fourche puis à la griffe, celui-ci va reposer et infuser jusqu&amp;rsquo;au printemps.</description>
+    </item>
+    
+    <item>
+      <title>Première édition du Power Day</title>
+      <link>http://example.org/actu/2021/211003/</link>
+      <pubDate>Sun, 03 Oct 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/211003/</guid>
+      <description>Au menu de la première édition du Power Day: arrachage des mauvaises herbes sur les plates-bandes, à-fonds du poulallier, nettoyage approfondi du carnotzet&amp;hellip; Le tout soldé par la récolte des courges de la fosse à fumier!
+    </description>
+    </item>
+    
+    <item>
+      <title>Extension du verger</title>
+      <link>http://example.org/actu/2021/210930/</link>
+      <pubDate>Thu, 30 Sep 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210930/</guid>
+      <description>Un prunier et un poirier ont été planté sur le terrain agricole. Il constitue la nouvelle génération d&amp;rsquo;arbres fruitiers du verger.</description>
+    </item>
+    
+    <item>
+      <title>2 poules</title>
+      <link>http://example.org/actu/2021/210927/</link>
+      <pubDate>Mon, 27 Sep 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210927/</guid>
+      <description>Arrivée de deux nouvelles poules dans le poulailler en vue du renouvellement de certaines gallinacées qui seront plumées en octobre&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Arrachages des mottes de terre</title>
+      <link>http://example.org/actu/2021/210921/</link>
+      <pubDate>Tue, 21 Sep 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210921/</guid>
+      <description>Débuté la semaine dernière après le passage du tracteur de Coucou, l&amp;rsquo;arrachage à la main des mottes de terre pour les séparer du bidim a été terminé hier en fin de journée. Douzes petites mains, beaucoup de force et trois heures de travail ont été nécessaires pour en venir à bout.
+        </description>
+    </item>
+    
+    <item>
+      <title>Courges</title>
+      <link>http://example.org/actu/2021/210918/</link>
+      <pubDate>Sat, 18 Sep 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210918/</guid>
+      <description>Les courges plantées en juillet dans le tas de fumier ont si bien poussé qu&amp;rsquo;elles font des envieux dans le village&amp;hellip;
+          </description>
+    </item>
+    
+    <item>
+      <title>Arrachage du bidim</title>
+      <link>http://example.org/actu/2021/210915/</link>
+      <pubDate>Wed, 15 Sep 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210915/</guid>
+      <description>Le voisin, Daniel Courvoisier, dit Coucou et appelé aussi le parrain des Coopinambours, a emprunté un tracteur et sorti la griffe afin d&amp;rsquo;arracher le bidim qui recouvre le terrain agricole&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Identifications des poulets</title>
+      <link>http://example.org/actu/2021/210827/</link>
+      <pubDate>Thu, 26 Aug 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210827/</guid>
+      <description>Après quelques semaines, et quelques chants au matin, les Coopinambours ont identifés à minima 3 poulets (voire 4) parmis les 6 volatiles qui avaient été accueillis début août&amp;hellip; Ceux-ci seront plumés prochainement.
+  Deux coqs dans le jardin   </description>
+    </item>
+    
+    <item>
+      <title>Petits fruits</title>
+      <link>http://example.org/actu/2021/210826/</link>
+      <pubDate>Thu, 26 Aug 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210826/</guid>
+      <description>En bordure de la pergola, fraisiers, framboisiers et josta ont été plantés cet après-midi. La récolte attendra en revanche l&amp;rsquo;année prochaine si ce n&amp;rsquo;est pas celle d&amp;rsquo;après&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>6 poules! ... ou poulets...</title>
+      <link>http://example.org/actu/2021/210803/</link>
+      <pubDate>Tue, 03 Aug 2021 15:44:24 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210803/</guid>
+      <description>Les Coopinambours ont accueilli aujourd&amp;rsquo;hui six gallinacés de sexe inconnu. Les bêtes à plume découvrent leur nouvel habitat, qui est toujours en cours d&#39;élaboration. Statistiquement, une moitié finira à la casserole.
+  Sortie d&amp;#39;une poule   </description>
+    </item>
+    
+    <item>
+      <title>Déménagement de Jasmine et Armand</title>
+      <link>http://example.org/actu/2021/210723/</link>
+      <pubDate>Fri, 23 Jul 2021 11:44:16 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210723/</guid>
+      <description>Jasmine et Armand on fait appel à des déménageurs professionnels pour déplacer leurs affaires et mobilier d&amp;rsquo;Yverdon à Prahins. Tous les Coopinambours sont maintenant réunis sous le même toit.</description>
+    </item>
+    
+    <item>
+      <title>Plantage des plantons</title>
+      <link>http://example.org/actu/2021/210715/</link>
+      <pubDate>Thu, 15 Jul 2021 11:42:28 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210715/</guid>
+      <description>Les plantons de courges, courgettes, concombres et tomates ont été plantés dans les alentours de la maisons, en bac et en terre. Une récolte devrait pouvoir avoir lieu durant l&#39;été.
+        </description>
+    </item>
+    
+    <item>
+      <title>Déménagement de Marine et Daniel</title>
+      <link>http://example.org/actu/2021/210702/</link>
+      <pubDate>Fri, 02 Jul 2021 14:21:57 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210702/</guid>
+      <description>Marine et Daniel ont quitté Yvonand pour Prahins. L&amp;rsquo;aide des Coopinambours et du père de Daniel, Jürg Wolfensberger, a été particulièrement précieuse.</description>
+    </item>
+    
+    <item>
+      <title>Signature!</title>
+      <link>http://example.org/actu/2021/210701/</link>
+      <pubDate>Thu, 01 Jul 2021 14:21:47 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210701/</guid>
+      <description>Les Coopinambours ont signé l&amp;rsquo;acte de vente définitif chez le notaire Didier Rickli. La maison est leur!
+  Apéro du 2 juillet devant Suisse-Espagne   </description>
+    </item>
+    
+    <item>
+      <title>Apéro du 26 juin</title>
+      <link>http://example.org/actu/2021/210626/</link>
+      <pubDate>Sat, 26 Jun 2021 14:17:07 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210626/</guid>
+      <description>Après le déménagement de Jonathan et Cosette, les Coopinambours ont sabré le champagne, et ont en profité pour faire connaissance de leurs voisins, Marion, Pierrick et leurs deux garçons Maelle et Swan.</description>
+    </item>
+    
+    <item>
+      <title>Déménagement de Jonathan et Cosette</title>
+      <link>http://example.org/actu/2021/210625/</link>
+      <pubDate>Fri, 25 Jun 2021 15:40:02 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210625/</guid>
+      <description>Jonathan et Cosette ont posé leur valises à Prahins. Le déménagement depuis Villargiroud a demandé 2 allers-retours et la participation des 12 bras des Coopinambours.</description>
+    </item>
+    
+    <item>
+      <title>Formation en gouvernance partagée</title>
+      <link>http://example.org/actu/2021/210220/</link>
+      <pubDate>Sat, 20 Feb 2021 11:33:01 +0200</pubDate>
+      
+      <guid>http://example.org/actu/2021/210220/</guid>
+      <description>Les Coopinambours ont suivi un stage de deux jours en gouvernance partagée afin d&amp;rsquo;avoir des outils et des clés pour mener à bien leurs réunions.</description>
+    </item>
+    
   </channel>
 </rss>

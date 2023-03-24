@@ -12,5 +12,60 @@
 	<atom:link href="http://example.org/projets/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Rénovations thermiques et changement de chaudière</title>
+      <link>http://example.org/projets/projet5/</link>
+      <pubDate>Wed, 15 Jun 2022 16:24:24 +0200</pubDate>
+      
+      <guid>http://example.org/projets/projet5/</guid>
+      <description>Des travaux assez conséquents sont prévus pour améliorer l&amp;rsquo;efficacité énergétique du bâtiment.
+CECB+ &amp;hellip;
+Isolation des combles L&amp;rsquo;isolation des combles à l&amp;rsquo;aide de ouate de cellulose a été réalisée au printemps 2022. Ceci permet de réduire les déperditions thermiques par le toit.
+Remplacement des fenêtres Du triple vitrage à simple battant sera posé en tout cas sur les deux étages du rez et du premier. L&amp;rsquo;objectif est également de gagner en luminosité en retirant les croisillons.</description>
+    </item>
+    
+    <item>
+      <title>Potager - saison 2022</title>
+      <link>http://example.org/projets/projet4/</link>
+      <pubDate>Thu, 10 Mar 2022 16:24:24 +0200</pubDate>
+      
+      <guid>http://example.org/projets/projet4/</guid>
+      <description>Récapitulatif de la saison 2022 du potager
+Plan du jardin Cosette a donné les premières instructions pour la mise en place des cultures. Son plan intial du potager à néanmoins évolué au fil de la saison.
+(mettre la photo du plan du jardin)
+Météo L&amp;rsquo;année 2022 a été exceptionnelle d&amp;rsquo;un point du vue de l&amp;rsquo;ensoleillement, des températures (une canicule en juin, une canicule en juillet, une canicule début août&amp;hellip;) et de l&amp;rsquo;absence de précipitation (deux à trois jours avec quelques gouttes depuis le mois de juin seulement).</description>
+    </item>
+    
+    <item>
+      <title>Préparation du terrain agricole pour l&#39;élaboration d&#39;un potager</title>
+      <link>http://example.org/projets/projet2/</link>
+      <pubDate>Fri, 24 Sep 2021 16:24:24 +0200</pubDate>
+      
+      <guid>http://example.org/projets/projet2/</guid>
+      <description>L&amp;rsquo;objectif de ce projet est de créer des conditions idéales sur le terrain agricole afin de maximiser les récoltes.
+Aérer la terre et libérer le sol du bidim En automne 2021, la première étape est d&amp;rsquo;enlever le bidim du terrain et d&amp;rsquo;y déposer du fumier afin de fertiliser la terre.
+Dessiner un plan du potager En hiver 2021-2022, Cosette s&amp;rsquo;est collée à l&#39;élaboration du plan du potager et à la commande de semences auprès de Zollinger.</description>
+    </item>
+    
+    <item>
+      <title>Réféction du poulailler</title>
+      <link>http://example.org/projets/projet3/</link>
+      <pubDate>Thu, 24 Jun 2021 15:10:12 +0200</pubDate>
+      
+      <guid>http://example.org/projets/projet3/</guid>
+      <description>Pour accueillir des poules et espérer manger deux oeufs locaux, la réféction de l&amp;rsquo;ancien poulailler est une étape obligatoire.
+Extérieur A l&amp;rsquo;extérieur, le grillage a été passé en revue, tendu et réhaussé là où cela était nécessaire. Le noisetier et la petite maisonnette qui se trouvait déja dans l&amp;rsquo;enclos ont été laissés sur place car ils permettent de créer des espaces ombragés et protègent les poules des attaques de rapaces.</description>
+    </item>
+    
+    <item>
+      <title>Achat d&#39;une maison villageoise</title>
+      <link>http://example.org/projets/projet1/</link>
+      <pubDate>Thu, 24 Jun 2021 14:50:34 +0200</pubDate>
+      
+      <guid>http://example.org/projets/projet1/</guid>
+      <description>Visites La première visite de la bâtisse eut lieu à l&amp;rsquo;automne 2020. Ce fut à ce moment-là que l&amp;rsquo;idée de créer un espace de vie ensemble, avec ce groupe de personnes, émergea pour la première fois. Le groupe commença alors à se renseigner sur les coopératives d&amp;rsquo;habitation. Un premier membre quitta le navire à cet instant.
+Une deuxième visite en décembre, accompagnée par une architecte spécialiste des bâtiments ruraux et d&amp;rsquo;une caméra thermique, permis de se faire une idée plus précise de l&#39;état du bâtiment.</description>
+    </item>
+    
   </channel>
 </rss>
