@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evénement on Les Coopinambours</title>
-    <link>http://example.org/tags/ev%C3%A9nement/</link>
+    <link>https://coopinambours.github.io/tags/ev%C3%A9nement/</link>
     <description>Recent content in Evénement on Les Coopinambours</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>truc</copyright>
     <lastBuildDate>Mon, 31 Jan 2022 15:44:24 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/ev%C3%A9nement/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coopinambours.github.io/tags/ev%C3%A9nement/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Naissance d&#39;un Coopinambours</title>
-      <link>http://example.org/actu/2022/220131/</link>
+      <link>https://coopinambours.github.io/actu/2022/220131/</link>
       <pubDate>Mon, 31 Jan 2022 15:44:24 +0200</pubDate>
       
-      <guid>http://example.org/actu/2022/220131/</guid>
+      <guid>https://coopinambours.github.io/actu/2022/220131/</guid>
       <description>Un (très) petit garçon nommé Arthur a vu le jour! La maman se porte bien et pourra rentrer prochainement à la maison. Les Coopinambours lui souhaite la bienvenue dans leurs rangs.
   Un très jeune Coopinambours   </description>
     </item>
     
     <item>
       <title>La courge en folie</title>
-      <link>http://example.org/actu/2021/211111-1/</link>
+      <link>https://coopinambours.github.io/actu/2021/211111-1/</link>
       <pubDate>Thu, 11 Nov 2021 15:44:24 +0200</pubDate>
       
-      <guid>http://example.org/actu/2021/211111-1/</guid>
+      <guid>https://coopinambours.github.io/actu/2021/211111-1/</guid>
       <description>Les Coopinambours ont organisé leur propre fête des voisins autour de plusieurs soupes à la courge, de vin chaud, de thé à la cannelle et de dessert. Un franc succès!
 Avant l&amp;rsquo;arrivée des convives         A table !         </description>
     </item>
     
     <item>
       <title>Plumage</title>
-      <link>http://example.org/actu/2021/211105/</link>
+      <link>https://coopinambours.github.io/actu/2021/211105/</link>
       <pubDate>Fri, 05 Nov 2021 15:44:24 +0200</pubDate>
       
-      <guid>http://example.org/actu/2021/211105/</guid>
+      <guid>https://coopinambours.github.io/actu/2021/211105/</guid>
       <description>Quatre des cinqs coqs ont été abattus, plumés, découpés et congelés. Dupond (ou Dupont on ne sait pas), seul rescapé, découvre dès à présent son nouveau rôle de mâle omega.</description>
     </item>
     
     <item>
       <title>Première édition du Power Day</title>
-      <link>http://example.org/actu/2021/211003/</link>
+      <link>https://coopinambours.github.io/actu/2021/211003/</link>
       <pubDate>Sun, 03 Oct 2021 15:44:24 +0200</pubDate>
       
-      <guid>http://example.org/actu/2021/211003/</guid>
+      <guid>https://coopinambours.github.io/actu/2021/211003/</guid>
       <description>Au menu de la première édition du Power Day: arrachage des mauvaises herbes sur les plates-bandes, à-fonds du poulallier, nettoyage approfondi du carnotzet&amp;hellip; Le tout soldé par la récolte des courges de la fosse à fumier!
     </description>
     </item>
     
     <item>
       <title>Déménagement de Jasmine et Armand</title>
-      <link>http://example.org/actu/2021/210723/</link>
+      <link>https://coopinambours.github.io/actu/2021/210723/</link>
       <pubDate>Fri, 23 Jul 2021 11:44:16 +0200</pubDate>
       
-      <guid>http://example.org/actu/2021/210723/</guid>
+      <guid>https://coopinambours.github.io/actu/2021/210723/</guid>
       <description>Jasmine et Armand on fait appel à des déménageurs professionnels pour déplacer leurs affaires et mobilier d&amp;rsquo;Yverdon à Prahins. Tous les Coopinambours sont maintenant réunis sous le même toit.</description>
     </item>
     
     <item>
       <title>Déménagement de Marine et Daniel</title>
-      <link>http://example.org/actu/2021/210702/</link>
+      <link>https://coopinambours.github.io/actu/2021/210702/</link>
       <pubDate>Fri, 02 Jul 2021 14:21:57 +0200</pubDate>
       
-      <guid>http://example.org/actu/2021/210702/</guid>
+      <guid>https://coopinambours.github.io/actu/2021/210702/</guid>
       <description>Marine et Daniel ont quitté Yvonand pour Prahins. L&amp;rsquo;aide des Coopinambours et du père de Daniel, Jürg Wolfensberger, a été particulièrement précieuse.</description>
     </item>
     
     <item>
       <title>Signature!</title>
-      <link>http://example.org/actu/2021/210701/</link>
+      <link>https://coopinambours.github.io/actu/2021/210701/</link>
       <pubDate>Thu, 01 Jul 2021 14:21:47 +0200</pubDate>
       
-      <guid>http://example.org/actu/2021/210701/</guid>
+      <guid>https://coopinambours.github.io/actu/2021/210701/</guid>
       <description>Les Coopinambours ont signé l&amp;rsquo;acte de vente définitif chez le notaire Didier Rickli. La maison est leur!
   Apéro du 2 juillet devant Suisse-Espagne   </description>
     </item>
     
     <item>
       <title>Apéro du 26 juin</title>
-      <link>http://example.org/actu/2021/210626/</link>
+      <link>https://coopinambours.github.io/actu/2021/210626/</link>
       <pubDate>Sat, 26 Jun 2021 14:17:07 +0200</pubDate>
       
-      <guid>http://example.org/actu/2021/210626/</guid>
+      <guid>https://coopinambours.github.io/actu/2021/210626/</guid>
       <description>Après le déménagement de Jonathan et Cosette, les Coopinambours ont sabré le champagne, et ont en profité pour faire connaissance de leurs voisins, Marion, Pierrick et leurs deux garçons Maelle et Swan.</description>
     </item>
     
     <item>
       <title>Déménagement de Jonathan et Cosette</title>
-      <link>http://example.org/actu/2021/210625/</link>
+      <link>https://coopinambours.github.io/actu/2021/210625/</link>
       <pubDate>Fri, 25 Jun 2021 15:40:02 +0200</pubDate>
       
-      <guid>http://example.org/actu/2021/210625/</guid>
+      <guid>https://coopinambours.github.io/actu/2021/210625/</guid>
       <description>Jonathan et Cosette ont posé leur valises à Prahins. Le déménagement depuis Villargiroud a demandé 2 allers-retours et la participation des 12 bras des Coopinambours.</description>
     </item>
     

@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Les Coopinambours</title>
-    <link>http://example.org/tags/</link>
+    <link>https://coopinambours.github.io/tags/</link>
     <description>Recent content in Tags on Les Coopinambours</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>truc</copyright>
     <lastBuildDate>Sun, 19 Mar 2023 15:44:24 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coopinambours.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jardin</title>
-      <link>http://example.org/tags/jardin/</link>
+      <link>https://coopinambours.github.io/tags/jardin/</link>
       <pubDate>Sun, 19 Mar 2023 15:44:24 +0200</pubDate>
       
-      <guid>http://example.org/tags/jardin/</guid>
+      <guid>https://coopinambours.github.io/tags/jardin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poulailler</title>
-      <link>http://example.org/tags/poulailler/</link>
+      <link>https://coopinambours.github.io/tags/poulailler/</link>
       <pubDate>Thu, 09 Mar 2023 15:44:24 +0200</pubDate>
       
-      <guid>http://example.org/tags/poulailler/</guid>
+      <guid>https://coopinambours.github.io/tags/poulailler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vivre ensemble</title>
-      <link>http://example.org/tags/vivre-ensemble/</link>
+      <link>https://coopinambours.github.io/tags/vivre-ensemble/</link>
       <pubDate>Sun, 29 Jan 2023 15:44:24 +0200</pubDate>
       
-      <guid>http://example.org/tags/vivre-ensemble/</guid>
+      <guid>https://coopinambours.github.io/tags/vivre-ensemble/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travaux</title>
-      <link>http://example.org/tags/travaux/</link>
+      <link>https://coopinambours.github.io/tags/travaux/</link>
       <pubDate>Sat, 22 Oct 2022 15:44:24 +0200</pubDate>
       
-      <guid>http://example.org/tags/travaux/</guid>
+      <guid>https://coopinambours.github.io/tags/travaux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Divers</title>
-      <link>http://example.org/tags/divers/</link>
+      <link>https://coopinambours.github.io/tags/divers/</link>
       <pubDate>Wed, 17 Aug 2022 15:44:24 +0200</pubDate>
       
-      <guid>http://example.org/tags/divers/</guid>
+      <guid>https://coopinambours.github.io/tags/divers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evénement</title>
-      <link>http://example.org/tags/ev%C3%A9nement/</link>
+      <link>https://coopinambours.github.io/tags/ev%C3%A9nement/</link>
       <pubDate>Mon, 31 Jan 2022 15:44:24 +0200</pubDate>
       
-      <guid>http://example.org/tags/ev%C3%A9nement/</guid>
+      <guid>https://coopinambours.github.io/tags/ev%C3%A9nement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verger</title>
-      <link>http://example.org/tags/verger/</link>
+      <link>https://coopinambours.github.io/tags/verger/</link>
       <pubDate>Tue, 25 Jan 2022 15:44:24 +0200</pubDate>
       
-      <guid>http://example.org/tags/verger/</guid>
+      <guid>https://coopinambours.github.io/tags/verger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projets</title>
-      <link>http://example.org/tags/projets/</link>
+      <link>https://coopinambours.github.io/tags/projets/</link>
       <pubDate>Thu, 11 Nov 2021 15:44:24 +0200</pubDate>
       
-      <guid>http://example.org/tags/projets/</guid>
+      <guid>https://coopinambours.github.io/tags/projets/</guid>
       <description></description>
     </item>
     
