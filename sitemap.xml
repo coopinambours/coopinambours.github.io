@@ -59,6 +59,20 @@
   </url>
   
   <url>
+    <loc>https://coopinambours.github.io/projets/projet7/</loc>
+    <lastmod>2023-01-15T16:24:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://coopinambours.github.io/projets/projet6/</loc>
+    <lastmod>2023-01-15T16:24:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://coopinambours.github.io/actu/2022/221231/</loc>
     <lastmod>2022-12-31T15:44:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -150,6 +164,13 @@
   </url>
   
   <url>
+    <loc>https://coopinambours.github.io/projets/projet5/</loc>
+    <lastmod>2022-09-01T16:24:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://coopinambours.github.io/tags/divers/</loc>
     <lastmod>2022-08-17T15:44:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -180,13 +201,6 @@
   <url>
     <loc>https://coopinambours.github.io/actu/2022/220711/</loc>
     <lastmod>2022-07-11T15:44:24+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coopinambours.github.io/projets/projet5/</loc>
-    <lastmod>2022-06-15T16:24:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
