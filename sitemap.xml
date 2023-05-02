@@ -24,6 +24,13 @@
   </url>
   
   <url>
+    <loc>https://coopinambours.github.io/actu/2023/230326/</loc>
+    <lastmod>2023-03-26T15:44:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://coopinambours.github.io/actu/2023/230325/</loc>
     <lastmod>2023-03-25T15:44:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -194,6 +201,13 @@
   <url>
     <loc>https://coopinambours.github.io/actu/2022/220812/</loc>
     <lastmod>2022-08-12T15:44:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://coopinambours.github.io/actu/2022/220719/</loc>
+    <lastmod>2022-07-12T15:44:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
