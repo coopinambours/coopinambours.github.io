@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>truc</copyright>
-    <lastBuildDate>Fri, 14 Apr 2023 15:44:24 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2023 15:44:24 +0200</lastBuildDate>
     
 	<atom:link href="https://coopinambours.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Travaux</title>
+      <link>https://coopinambours.github.io/tags/travaux/</link>
+      <pubDate>Fri, 05 May 2023 15:44:24 +0200</pubDate>
+      
+      <guid>https://coopinambours.github.io/tags/travaux/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jardin</title>
@@ -36,15 +45,6 @@
       <pubDate>Sun, 29 Jan 2023 15:44:24 +0200</pubDate>
       
       <guid>https://coopinambours.github.io/tags/vivre-ensemble/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travaux</title>
-      <link>https://coopinambours.github.io/tags/travaux/</link>
-      <pubDate>Sat, 22 Oct 2022 15:44:24 +0200</pubDate>
-      
-      <guid>https://coopinambours.github.io/tags/travaux/</guid>
       <description></description>
     </item>
     
