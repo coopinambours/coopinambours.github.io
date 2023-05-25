@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://coopinambours.github.io/actu/2023/230521/</loc>
+    <lastmod>2023-05-21T15:44:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://coopinambours.github.io/tags/poulailler/</loc>
+    <lastmod>2023-05-21T15:44:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://coopinambours.github.io/tags/</loc>
+    <lastmod>2023-05-21T15:44:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://coopinambours.github.io/actu/2023/230518/</loc>
     <lastmod>2023-05-18T15:44:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -11,13 +32,6 @@
   
   <url>
     <loc>https://coopinambours.github.io/tags/jardin/</loc>
-    <lastmod>2023-05-18T15:44:24+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coopinambours.github.io/tags/</loc>
     <lastmod>2023-05-18T15:44:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -61,13 +75,6 @@
   <url>
     <loc>https://coopinambours.github.io/actu/2023/230319/</loc>
     <lastmod>2023-03-19T15:44:24+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://coopinambours.github.io/tags/poulailler/</loc>
-    <lastmod>2023-03-09T15:44:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
