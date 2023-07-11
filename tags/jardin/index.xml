@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>truc</copyright>
-    <lastBuildDate>Mon, 29 May 2023 15:44:24 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2023 15:44:24 +0200</lastBuildDate>
     
 	<atom:link href="https://coopinambours.github.io/tags/jardin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Goutte à goutte</title>
+      <link>https://coopinambours.github.io/actu/2023/230703/</link>
+      <pubDate>Mon, 03 Jul 2023 15:44:24 +0200</pubDate>
+      
+      <guid>https://coopinambours.github.io/actu/2023/230703/</guid>
+      <description>Le système de goutte à goutte a été posé dans une partie du jardin. Son activation est manuelle et fonctionne grace à la pompe immergée dans les cuves IBC. De quoi faciliter l&amp;rsquo;arrosage de nos cultures.
+      </description>
+    </item>
     
     <item>
       <title>Tractopoule</title>
